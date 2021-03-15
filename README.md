@@ -10,7 +10,7 @@ The BADSEC server will run on port 8888. You can start it with:
 docker run --rm -p 8888:8888 adhocteam/noclist
 You should see Listening on http://0.0.0.0:8888
 
-# The next step
+=================================================
 # Step 1
 There are two core files *index.js* and *index.test.js*
 Supporting files: *package.json* and *package-lock.json*
