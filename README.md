@@ -5,7 +5,7 @@ Code assessment assignment for IT Specialist (APPSW) (Software Developer) 21-CFP
 551366
 
 # Description
-This project use **Node JS** to complete the code assessment assignment. The instruction below are as follow:
+This project use **Javascript** and **Node JS** to complete the code assessment assignment. The instruction below are as follow:
 
 ## To run locally
 Ensure that you have [**node**](https://nodejs.org/en/) and [**docker**](https://www.docker.com/) installed on your system.
