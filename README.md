@@ -4,6 +4,9 @@ Code assessment assignment for IT Specialist (APPSW) (Software Developer) 21-CFP
 # Applicant ID
 551366
 
+# Description
+This project use Node JS to complete the code assessment assignment. The instruction below are as follow:
+
 ## To run locally
 Ensure that you have [**node**](https://nodejs.org/en/) and [**docker**](https://www.docker.com/) installed on your system.
 The BADSEC server will run on port 8888. You can start it with:
